@@ -1,3 +1,5 @@
+// A different problem: https://open.kattis.com/problems/different
+
 use std::io::{self, BufRead};
 
 fn main() {
