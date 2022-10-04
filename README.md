@@ -1,0 +1,1 @@
+a repository for practicing rust with Kattis problems
